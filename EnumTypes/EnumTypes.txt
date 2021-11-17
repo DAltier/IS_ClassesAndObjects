@@ -1,0 +1,4 @@
+Questions
+
+True or false: an Enum type can be a subclass of java.lang.String.
+    Answer: False (java.lang.Enum)
